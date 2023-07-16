@@ -43,14 +43,14 @@ contract MyToken {
 
 ```
 
-To compile the code, click on the "Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile Jaimmy.sol" button.
+To compile the code, click on the "Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile Solidity.sol" button.
 
-Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Jaimmy" contract from the dropdown menu, and then click on the "Deploy" button.
+Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Solidity" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it. First copy your address at the top below the "Account" then paste it on "balance". Click on the "Burn" drag button contract in the left-hand sidebar to burn the value, and then click on the "mint" drag button to add a value. function. Finally, click on the "transact" button to execute the function.
+Once the contract is deployed, you can interact with it. First copy your address at the top below the "Account" then paste it on "balance". Click on the mint section paste your id and add value, and then click on the "Burn" section paste your id and click the button contract in the left-hand sidebar to burn the value. Once you done it all it will apear the result of your code
 ## Authors
 
-Metacrafter Jaimmy
+Metacrafter Matt
 
 ## License
 
